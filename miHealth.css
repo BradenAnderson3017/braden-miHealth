@@ -1,0 +1,160 @@
+body{
+    background-color: lightgrey;
+}
+img#logo{
+width: 100%;
+height: 100%;
+object-fit: cover;
+    
+}
+
+#nav{
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    margin: -10px -10px 0 -10px;
+    padding: 10px 60px 60px 0;
+    
+}
+#picture{
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: -15px 20px 20px 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px 0 30px;  ;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+
+}
+a:hover{
+    color: #ef8b80;
+}
+ul li{
+  display: inline;
+}
+ul{
+    margin-right: 30px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+#words{
+    margin: 80px 0 0 60px;
+    width: 275px;
+    height: 600px;
+}
+p{
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:100;
+    margin-top: -20px;
+}
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0 0 0;
+}
+div#apple{
+    width: 300px;
+    height: 450px;
+    margin: 0 10px 0 10px;
+    float: right;
+}
+div#pasta{
+    width: 300px;
+    height: 450px;
+    margin: 0 10px 0 10px;
+    float: right;
+}
+div#shrimp{
+    width: 300px;
+    height: 450px;
+    margin: 0 10px 0 10px;
+    float: right;
+}
+img#apple{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  
+}
+img#pasta{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  
+}
+img#shrimp{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  
+}
+#food-img{
+    margin: -580px 40px 0 20px;
+}
+#boxes1{
+    margin: -100px 0 0 0;
+    position: relative;
+}
+#box1{
+    background-color: white;
+    margin: 3px 0px 0px 145px;
+    width: 155px;
+    height: 45px;
+
+}
+#box2{
+    background-color: #ef8b80;
+    margin: 20px 0px 0 125px;
+    width: 175px;
+    height: 48px;
+    
+}
+p#food-word{
+    padding-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    font-weight: 900;
+}
+#boxes2{
+    margin: -100px 0 0 0;
+    position: relative;
+}
+#box3{
+    background-color: white;
+    margin: 3px 0px 0px 185px;
+    width: 115px;
+    height: 45px;
+
+}
+#box4{
+    background-color: #ef8b80;
+    margin: 20px 0px 0 125px;
+    width: 175px;
+    height: 48px;
+    
+}
+#boxes3{
+    margin: -100px 0 0 0;
+    position: relative;
+}
+#box5{
+    background-color: white;
+    margin: 3px 0px 0px 185px;
+    width: 115px;
+    height: 45px;
+
+}
+#box6{
+    background-color: #ef8b80;
+    margin: 20px 0px 0 125px;
+    width: 175px;
+    height: 48px;
+    
+}
